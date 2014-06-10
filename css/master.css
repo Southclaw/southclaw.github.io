@@ -1,0 +1,147 @@
+body
+{
+	background:#1a2125;
+	margin: 0px;
+}
+
+#headerbutton
+{
+	font-family: 'Ubuntu condensed', sans-serif;
+	font-size:24px;
+	text-decoration: none;
+
+	color:#FF4700;
+	text-align:left;
+	margin-left: 10px;
+}
+
+#headerbutton a
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+#headerbutton:active
+{
+
+}
+
+p
+{
+	font-size:18px;
+}
+
+div.ex
+{
+	font-family:"Ubuntu";
+	background-color:#FCFCFC;
+}
+
+
+.cont_parent
+{
+	padding-bottom:100px;
+	text-align:center;
+
+	background:rgba(128, 128, 159, 0.1);
+	background-image: url("../img/bg_default.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	-webkit-user-select:none;
+	-khtml-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+}
+
+.cont_inner
+{
+	height: 200px;
+	width: 600px;
+	margin: auto;
+	text-align:center;
+}
+.cont_inner ul
+{
+	width:100%;
+	margin:0 0 0 0;
+	padding: 0 0 0 0;
+	text-align:center;
+}
+
+ul
+{
+	float:left;
+	list-style:none;
+}
+
+li
+{
+	font-family: 'Open Sans', sans-serif;
+	height:180px;
+	width:120px;
+	margin:25px auto;
+	display:inline-block;
+
+	text-transform:capitalize;
+	text-align:center;
+	cursor: pointer;
+
+/*
+	-webkit-transition:.2s -webkit-transform, 1s opacity;
+	-moz-transition:   .2s -moz-transform, 1s opacity;
+	-o-transition:     .2s -o-transform, 1s opacity;
+	transition:        .2s transform, 1s opacity;
+	
+	-webkit-transform:perspective(800px) rotate3d(1, 0, 0, -20deg);
+	-moz-transform:perspective(800px) rotate3d(1, 0, 0, -20deg);
+	-ms-transform:perspective(800px) rotate3d(1, 0, 0, -20deg);
+	-o-transform:perspective(800px) rotate3d(1, 0, 0, -20deg);
+	transform:perspective(800px) rotate3d(1, 0, 0, -20deg);
+
+	-webkit-transform-style:preserve-3d;
+	-moz-transform-style:preserve-3d;
+	-ms-transform-style:preserve-3d;
+	-o-transform-style:preserve-3d;
+	transform-style:preserve-3d;
+	-webkit-transform-origin-x:50%;
+	-webkit-transform-origin-y:50%;
+*/
+}
+
+li a
+{
+	display: block;
+	padding: 120px 10px 5px 10px;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+
+/*
+li:hover
+{
+	-webkit-transform:perspective(800px);
+	-moz-transform:perspective(800px);
+	-ms-transform:perspective(800px);
+	-o-transform:perspective(800px);
+	transform:perspective(800px);
+}
+*/
+
+.button
+{
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	height:180px;
+	width:120px;
+	background:rgba(255, 71, 0, 0.8);
+	opacity: 0.9;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+}

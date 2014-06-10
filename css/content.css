@@ -1,0 +1,31 @@
+.main
+{
+	max-width:680px;
+	margin:auto;
+	padding:20px;
+
+	text-align:center;
+	margin:0 5px 36px 5px;
+	font-size:24px;
+	border:1px rgb(128, 128, 159) solid;
+	padding:8px;
+	background:rgba(128, 128, 159, 0.1);
+}
+
+h1
+{
+	font-family: 'Ubuntu condensed', sans-serif;
+	font-size:24px;
+
+	color:#FF4700;
+	text-align:left;
+	margin-left: 10px;
+}
+
+p
+{
+	font-size:18px;
+	font-family: 'Open Sans';
+	margin-top: 10px;
+	margin-left: 20px;
+}
