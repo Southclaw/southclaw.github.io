@@ -4,21 +4,118 @@
 
 <HEAD>
 
-<link rel="stylesheet" href="css/master.css">
-<link rel="stylesheet" href="css/content.css">
-<title>SOUTHCLAW</title>
+<link href="css/master.css" rel="stylesheet">
+<link href="css/content.css" rel="stylesheet">
+<link href="css/loader.css" rel="stylesheet">
+<link href="animate.min.css" rel="stylesheet">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'>
 
+<title>SOUTHCLAW / 3D</title>
+
 </HEAD>
 
 <BODY>
-<h1 id="headerbutton"><a href="index.html">Southclaw</a> / 3D</h1>
-<div class="cont_parent">
-	<div class="cont_inner">
-	<p>Content</p>
-	</div>
+<h1 id="headerbutton" class="animated flipInX">Southclaw / 3D</h1>
+<div class="content_block">
+<div class="content_block_inner">
+
+	<h1>3D Materials (UDK)</h1>
+	<p>
+	These are materials that I have created rendered in the Unreal Engine 3.
+	<br /><br />
+	I created every diffuse texture sample digitally by hand with additional layers from algorithmic generators (such as noise).
+	<br /><br />
+	Specular maps were manually created from diffuse layers. Then normal maps were generated using SSbump Generator 5.3.
+	<br /><br />
+	Some materials also include parallax maps for added detail of cavities and bumps.
+	<br /><br />
+	Materials are previewed below with embedded Gfycat videos of 720x480 video originally rendered at 1920x1080 uncompressed.
+	</p>
+
+	<h2>brushed_shiny_steel</h2>
+	<img class="gfyitem" data-id="LastingScalyBarnacle" />
+
+	<h2>brushed_shiny_steel_dark</h2>
+	<img class="gfyitem" data-id="ImpeccableFlippantArgali" />
+
+	<h2>curtain_wavy_material</h2>
+	<img class="gfyitem" data-id="EmbarrassedBlindIguana" />
+
+	<h2>env_genroom</h2>
+	<img class="gfyitem" data-id="PaltryHonoredAmurstarfish" />
+
+	<h2>env_hallways</h2>
+	<img class="gfyitem" data-id="MeaslyNeighboringCrustacean" />
+
+	<h2>env_industrial</h2>
+	<img class="gfyitem" data-id="TinyPopularChinchilla" />
+
+	<h2>env_lab</h2>
+	<img class="gfyitem" data-id="ZigzagAnxiousBinturong" />
+
+	<h2>env_office</h2>
+	<img class="gfyitem" data-id="DesertedSameDogwoodclubgall" />
+
+	<h2>env_storage</h2>
+	<img class="gfyitem" data-id="AcceptableGrayHorsemouse" />
+
+	<h2>matte_black_device_plastic</h2>
+	<img class="gfyitem" data-id="QuestionableFrightenedAplomadofalcon" />
+
+	<h2>matte_black_metal</h2>
+	<img class="gfyitem" data-id="ObedientHelpfulAcornbarnacle" />
+
+	<h2>metaltile</h2>
+	<img class="gfyitem" data-id="BrokenCharmingDunnart" />
+
+	<h2>pipes_generic_rust</h2>
+	<img class="gfyitem" data-id="FakeBelovedIndianhare" />
+
+	<h2>rustmetaltile</h2>
+	<img class="gfyitem" data-id="GraciousScentedKoala" />
+
+	<h2>varnish_wood</h2>
+	<img class="gfyitem" data-id="KnobbyZanyGalapagosalbatross" />
+
+	<h2>varnish_wood_rough</h2>
+	<img class="gfyitem" data-id="PaltryThickGreatwhiteshark" />
+
 </div>
+</div>
+
+<div id="page_loader">
+<div class="spinner"></div>
+</div>
+<script>
+$(document).ready(function(){$("#page_loader").hide();});
+$("#headerbutton").click(function()
+{
+	$("#page_loader").show();
+	$("#headerbutton").removeClass('flipInX');
+	$("#headerbutton").addClass('animated fadeOutLeft');
+	window.setTimeout( function(){
+		window.location.href = "index.html";
+	}, 200);
+});
+</script>
+
 </BODY>
+
+<script>
+(function(d, t)
+{
+	var
+		g = d.createElement(t),
+		s = d.getElementsByTagName(t)[0];
+
+	g.src = 'http://assets.gfycat.com/js/gfyajax-0.517d.js';
+	s.parentNode.insertBefore(g, s);
+}(document, 'script'));
+</script>
+
+
 </HTML>

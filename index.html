@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 
+<!--
+
+This is a small portfolio site designed by Southclaw.
+
+Thanks to daneden for animate.css
+Thanks to alachie for the loader/spinner
+
+-->
+
 <html>
 <head>
 
 <link href="css/master.css" rel="stylesheet">
+<link href="css/loader.css" rel="stylesheet">
 <link href="animate.min.css" rel="stylesheet">
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -16,10 +26,10 @@
 </head>
 <body>
 
-<h1 id="headerbutton" class="animated flipInX"><a href="index.html">Southclaw</a></h1>
+<h1 id="headerbutton" class="animated flipInX">Southclaw</h1>
 
-<div class="cont_parent">
-	<div class="cont_inner">
+<div class="master_block_parent">
+	<div class="master_block_inner">
 		<ul>
 		<li id="b_3d" class="button animated fadeInLeft"><a>3D</a></li>
 		<li id="b_code" class="button animated fadeInDown"><a>Code</a></li>
@@ -27,7 +37,7 @@
 		</ul>
 	</div>
 	<br />
-	<div class="cont_inner">
+	<div class="master_block_inner">
 		<ul>
 		<li id="b_about" class="button animated fadeInLeft"><a>About</a></li>
 		<li id="b_contact" class="button animated fadeInUp"><a>Contact</a></li>
@@ -38,6 +48,7 @@
 </div>
 
 <script>
+$('#headerbutton').hover(function(){$('#headerbutton').addClass('animated pulse');});
 $('#b_3d').click(		function(){animateFor_b_3d();		delayRedirect("pf_3d.html");});
 $('#b_code').click(		function(){animateFor_b_code();		delayRedirect("pf_code.html");});
 $('#b_misc').click(		function(){animateFor_b_misc();		delayRedirect("pf_misc.html");});
@@ -45,12 +56,12 @@ $('#b_about').click(	function(){animateFor_b_about();	delayRedirect("in_about.ht
 $('#b_contact').click(	function(){animateFor_b_contact();	delayRedirect("in_contact.html");});
 $('#b_links').click(	function(){animateFor_b_links();	delayRedirect("in_links.html");});
 
-$('#b_3d').hover(		function(){$('.cont_parent').css('background-image', 'url("img/bg_3d.png")');		animatePulse(this); });
-$('#b_code').hover(		function(){$('.cont_parent').css('background-image', 'url("img/bg_code.png")');		animatePulse(this); });
-$('#b_misc').hover(		function(){$('.cont_parent').css('background-image', 'url("img/bg_misc.png")');		animatePulse(this); });
-$('#b_about').hover(	function(){$('.cont_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
-$('#b_contact').hover(	function(){$('.cont_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
-$('#b_links').hover(	function(){$('.cont_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
+$('#b_3d').hover(		function(){$('.master_block_parent').css('background-image', 'url("img/bg_3d.png")');		animatePulse(this); });
+$('#b_code').hover(		function(){$('.master_block_parent').css('background-image', 'url("img/bg_code.png")');		animatePulse(this); });
+$('#b_misc').hover(		function(){$('.master_block_parent').css('background-image', 'url("img/bg_misc.png")');		animatePulse(this); });
+$('#b_about').hover(	function(){$('.master_block_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
+$('#b_contact').hover(	function(){$('.master_block_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
+$('#b_links').hover(	function(){$('.master_block_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
 
 
 function animateFor_b_3d()
@@ -110,6 +121,8 @@ function animateFor_b_links()
 
 function delayRedirect(page)
 {
+	$("#page_loader").show();
+
 	window.setTimeout( function(){
 		window.location.href = page;
 	}, 200);
@@ -125,6 +138,22 @@ function animatePulse(element)
 	$(element).addClass('animated pulse');
 }
 
+</script>
+
+<div id="page_loader">
+<div class="spinner"></div>
+</div>
+<script>
+$(document).ready(function(){$("#page_loader").hide();});
+$("#headerbutton").click(function()
+{
+	$("#page_loader").show();
+	$("#headerbutton").removeClass('flipInX');
+	$("#headerbutton").addClass('animated fadeOutLeft');
+	window.setTimeout( function(){
+		window.location.href = "index.html";
+	}, 200);
+});
 </script>
 
 </body>
