@@ -1,8 +1,30 @@
+/*
+
+	General stuff
+
+*/
 body
 {
 	background:#1a1a1a;
 	margin: 0px;
 }
+
+a:link{text-decoration: none; color: #cacaca;}
+a:visited{text-decoration: none; color: #cacaca;}
+a:hover{text-decoration: none; color: #ff3200;}
+a:active{text-decoration: none; color: #ff1a1a;}
+
+p
+{
+	font-size:18px;
+	font-family:"Ubuntu";
+}
+
+/*
+
+	Header strip
+
+*/
 
 #headerstrip
 {
@@ -36,12 +58,6 @@ body
 	border-radius: 100%;
 	-webkit-border-radius: 100%;
 	-moz-border-radius: 100%;
-}
-
-p
-{
-	font-size:18px;
-	font-family:"Ubuntu";
 }
 
 /*
