@@ -26,7 +26,11 @@ Thanks to alachie for the loader/spinner
 </head>
 <body>
 
-<h1 id="headerbutton" class="animated flipInX">Southclaw</h1>
+<div id="headerstrip">
+	<div id="headerbutton" class="animated flipInX">Southclaw</div>
+	<div id="headericon" class="animated flipInX"></div>
+</div>
+
 
 <div class="master_block_parent">
 	<div class="master_block_inner">
@@ -36,32 +40,35 @@ Thanks to alachie for the loader/spinner
 		<li id="b_misc" class="button animated fadeInRight"><a>Misc</a></li>
 		</ul>
 	</div>
-	<br />
-	<div class="master_block_inner">
-		<ul>
-		<li id="b_about" class="button animated fadeInLeft"><a>About</a></li>
-		<li id="b_contact" class="button animated fadeInUp"><a>Contact</a></li>
-		<li id="b_links" class="button animated fadeInRight"><a>Links</a></li>
-		</ul>
+	<br/>
+	<div class="master_block_info">
+
+		<h1>About Me</h1>
+		<p>
+		Primarily a C programmer and jack-of-some-other-trades including texturing, 3D modelling and level design. Can also be seen drawing silly cartoons or heard improvising crazy sounds on guitar or bass. I would start recording music but lack the required equipment. Meandering haplessly towards a career in computer sciences (for now...)
+		<br/>
+		<br/>
+		Currently residing in the deepest, darkest depths of the East-Midlands and attending college in the medium sized yet interesting city of Nottingham. Listens to anything from jazz to dubstep; grunge to orchestral. Almost shares a birthday with the original Playstation.
+		</p>
+		<h1>Contact and Links</h1>
+		<p>
+		Email: <a href="mailto:SouthclawJK@gmail.com">SouthclawJK@gmail.com</a>
+		</p>
+
 	</div>
-	<div class="star-six"></div>
 </div>
+
+<footer>Web design by Southclaw</footer>
 
 <script>
 $('#headerbutton').hover(function(){$('#headerbutton').addClass('animated pulse');});
 $('#b_3d').click(		function(){animateFor_b_3d();		delayRedirect("pf_3d.html");});
 $('#b_code').click(		function(){animateFor_b_code();		delayRedirect("pf_code.html");});
 $('#b_misc').click(		function(){animateFor_b_misc();		delayRedirect("pf_misc.html");});
-$('#b_about').click(	function(){animateFor_b_about();	delayRedirect("in_about.html");});
-$('#b_contact').click(	function(){animateFor_b_contact();	delayRedirect("in_contact.html");});
-$('#b_links').click(	function(){animateFor_b_links();	delayRedirect("in_links.html");});
 
 $('#b_3d').hover(		function(){$('.master_block_parent').css('background-image', 'url("img/bg_3d.png")');		animatePulse(this); });
 $('#b_code').hover(		function(){$('.master_block_parent').css('background-image', 'url("img/bg_code.png")');		animatePulse(this); });
 $('#b_misc').hover(		function(){$('.master_block_parent').css('background-image', 'url("img/bg_misc.png")');		animatePulse(this); });
-$('#b_about').hover(	function(){$('.master_block_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
-$('#b_contact').hover(	function(){$('.master_block_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
-$('#b_links').hover(	function(){$('.master_block_parent').css('background-image', 'url("img/bg_default.png")');	animatePulse(this); });
 
 
 function animateFor_b_3d()
@@ -69,54 +76,18 @@ function animateFor_b_3d()
 	$('#b_3d').addClass('animated pulse');
 	$('#b_code').addClass('animated fadeOutUp');
 	$('#b_misc').addClass('animated fadeOutRight');
-	$('#b_about').addClass('animated fadeOutLeft');
-	$('#b_contact').addClass('animated fadeOutDown');
-	$('#b_links').addClass('animated fadeOutRight');
 }
 function animateFor_b_code()
 {
 	$('#b_3d').addClass('animated fadeOutLeft');
 	$('#b_code').addClass('animated pulse');
 	$('#b_misc').addClass('animated fadeOutRight');
-	$('#b_about').addClass('animated fadeOutLeft');
-	$('#b_contact').addClass('animated fadeOutDown');
-	$('#b_links').addClass('animated fadeOutRight');
 }
 function animateFor_b_misc()
 {
 	$('#b_3d').addClass('animated fadeOutLeft');
 	$('#b_code').addClass('animated fadeOutUp');
 	$('#b_misc').addClass('animated pulse');
-	$('#b_about').addClass('animated fadeOutLeft');
-	$('#b_contact').addClass('animated fadeOutDown');
-	$('#b_links').addClass('animated fadeOutRight');
-}
-function animateFor_b_about()
-{
-	$('#b_3d').addClass('animated fadeOutLeft');
-	$('#b_code').addClass('animated fadeOutUp');
-	$('#b_misc').addClass('animated fadeOutRight');
-	$('#b_about').addClass('animated pulse');
-	$('#b_contact').addClass('animated fadeOutDown');
-	$('#b_links').addClass('animated fadeOutRight');
-}
-function animateFor_b_contact()
-{
-	$('#b_3d').addClass('animated fadeOutLeft');
-	$('#b_code').addClass('animated fadeOutUp');
-	$('#b_misc').addClass('animated fadeOutRight');
-	$('#b_about').addClass('animated fadeOutLeft');
-	$('#b_contact').addClass('animated pulse');
-	$('#b_links').addClass('animated fadeOutRight');
-}
-function animateFor_b_links()
-{
-	$('#b_3d').addClass('animated fadeOutLeft');
-	$('#b_code').addClass('animated fadeOutUp');
-	$('#b_misc').addClass('animated fadeOutRight');
-	$('#b_about').addClass('animated fadeOutLeft');
-	$('#b_contact').addClass('animated fadeOutDown');
-	$('#b_links').addClass('animated pulse');
 }
 
 function delayRedirect(page)

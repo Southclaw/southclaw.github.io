@@ -1,39 +1,27 @@
-.main
-{
-	max-width:680px;
-	margin:auto;
-	padding:20px;
-
-	text-align:center;
-	margin:0 5px 36px 5px;
-	font-size:24px;
-	border:1px rgb(128, 128, 159) solid;
-	padding:8px;
-	background:rgba(128, 128, 159, 0.1);
-}
-
 .content_block
 {
-	padding-bottom:100px;
+	padding: 0px;
 	text-align:center;
 	background: black;
 }
 
 .content_block_inner
 {
-	background: #1c1c1c;
+	padding: 0px;
+	background-color: #1d1d1d;
 	width: 960px;
 	margin: auto;
 }
-
 .content_block h1
 {
 	font-family: 'Ubuntu condensed', sans-serif;
+	margin: 0px;
 	font-size:32px;
 
 	color:#FF3200;
 	text-align:center;
 }
+
 
 .content_block h2
 {
