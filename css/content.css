@@ -12,7 +12,17 @@
 	width: 960px;
 	margin: auto;
 }
-.content_block h1
+
+.content_block_text
+{
+	background-color: #1e1e1e;
+	width: 600px;
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+.content_block_text h1
 {
 	font-family: 'Ubuntu condensed', sans-serif;
 	margin: 0px;
@@ -22,8 +32,7 @@
 	text-align:center;
 }
 
-
-.content_block h2
+.content_block_text h2
 {
 	font-family: 'Ubuntu condensed', sans-serif;
 	font-size:20px;
@@ -32,7 +41,7 @@
 	text-align:center;
 }
 
-.content_block p
+.content_block_text p
 {
 	font-size:12px;
 	font-family: 'Open Sans';
