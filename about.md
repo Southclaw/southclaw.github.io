@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+As a passionate and enthusiastic lover of all things electronic, mechanical and hackable; I have always shown deep interest in the way things work and strived to learn how the inner workings of even simple devices and machines produced a result. I am constantly striving to learn new skills from a vast array of fields including programming (game scripting, software development and web applications), 3D (level design, modelling and architecture), music (theory and practical) and art (digital and traditional illustration and design).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Currently residing in the deepest, darkest depths of the East-Midlands and studying computer science in the medium sized yet interesting city of Nottingham. Listens to anything from jazz to dubstep; grunge to orchestral. Almost shares a birthday with the original Playstation.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include icon-github.html username="Southclaw" %} /
+[Southclaw](https://github.com/Southclaw)

@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "Me!"
+date:       2012-09-19 20:32:55
+categories: personal
+---
+I'm Barnaby also known as Southclaw by the internetters out there, I am studying _Games Development Level 3_ at _Confetti Institute of Creative Technologies_ in Nottingham for two years. 
+
+[![](http://www.snc.ac.uk/college/images/confetti_ict.jpg)](http://www.snc.ac.uk/college/images/confetti_ict.jpg)
+
+Video games are a passion of mine, as a child I wasn't introduced to video games as young as most people but when I first saw 3D rendered images I became fascinated as to how that all works, how you get a real object and put a 3D image of it onto a computer screen.
+
+Some old favourites include (Earliest first if I remember correctly): 
+
+  * Star Wars X-Wing Alliance (PC) (I was a _MASSIVE _star wars geek as a kid! (still am))
+  * Black And White (PC) (Throwing people around, having a giant pet tiger? Best game.)
+  * Roller Coaster Tycoon (PC) (My first game I had on my very first own computer!)
+  * Wargames (PS1)
+  * Spiderman (PS1)
+  * Oddworld (PS1)
+  * Myst (PC)
+
+However the game (or series) that stood out most in my gaming life is Grand Theft Auto. GTA is an incredibly moddable game, I don't know if the developers intended for it to be but the data files are not encoded, they even have instructions on how to edit some values and what they do! 
+
+[![](http://www.sa-mp.com/images/logo.gif)](http://www.sa-mp.com/images/logo.gif)
+
+I soon discovered SA:MP, the multiplayer mod, after my favourite server shut down I decided I would learn how to run my own using the SA:MP API that allows creation of customized game types. I started learning _Pawn_, a 32-bit typeless C style scripting language.
+
+It's about 3 years since that, I love to help out people in the SA:MP community in the same way a lot of great people helped me in understanding how programming actually works. Once I got the hang of the logic of programming it became a simple task of learning all the functions that were available to use in scripts. [![SouthclawSkull](http://southclawjk.files.wordpress.com/2013/07/skull-thing1.png?w=240)](http://southclawjk.files.wordpress.com/2013/07/skull-thing1.png) This blog is purely just my hobbies and interests, posts will probably be about SA:MP projects but when Minecraft gets it's API released I'll be messing around with that too. Oh and Just Cause 2 Multiplayer will have an API so expect me to dive into that too! Thanks for reading! ~Southclaw :) [![](http://i.imgur.com/fOzwr.png)](http://i.imgur.com/fOzwr.png) Oh and I also love playing around with digital graphics and 3D modelling, like above!

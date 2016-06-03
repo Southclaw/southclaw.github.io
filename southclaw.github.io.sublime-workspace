@@ -1,0 +1,2387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"YRET",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"varea_near",
+				"varea_NearList"
+			],
+			[
+				"LIQUID",
+				"LIQUID_ITEM_ARRAY_CELL_AMOUNT"
+			],
+			[
+				"YRE",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"fuel_",
+				"MAX_FUEL_LOCATIONS"
+			],
+			[
+				"LIQ",
+				"LIQUID_ITEM_ARRAY_CELL_AMOUNT"
+			],
+			[
+				"YCONT",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"LIQUI",
+				"LIQUID_ITEM_ARRAY_CELL_TYPE"
+			],
+			[
+				"Setitemar",
+				"SetItemArrayDataAtCell"
+			],
+			[
+				"liq_liquid",
+				"liq_liquidType"
+			],
+			[
+				"OnItemCreate",
+				"OnItemCreateInWorld"
+			],
+			[
+				"break",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"BRE",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"Setitemarra",
+				"SetItemArrayDataAtCell"
+			],
+			[
+				"LIQARRA",
+				"LIQUID_ITEM_ARRAY_CELL_AMOUNT"
+			],
+			[
+				"liquid_Ora",
+				"liquid_Orange"
+			],
+			[
+				"YRETUR",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"YBREA",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"arg",
+				"numargs"
+			],
+			[
+				"LIQUIDITEM",
+				"LIQUID_ITEM_ARRAY_CELL_AMOUNT"
+			],
+			[
+				"liq_item",
+				"liq_ItemTypeLiquidContainer"
+			],
+			[
+				"liq_",
+				"liq_ItemTypeLiquidContainer"
+			],
+			[
+				"OnPlause",
+				"OnPlayerUseItem"
+			],
+			[
+				"liqitem",
+				"liq_ItemTypeLiquidContainer"
+			],
+			[
+				"ITM_MAX",
+				"ITM_MAX_TYPES"
+			],
+			[
+				"exp_pre",
+				"exp_preset"
+			],
+			[
+				"exp_presets",
+				"exp_Presets"
+			],
+			[
+				"CreateExplos",
+				"CreateExplosion"
+			],
+			[
+				"exp_item",
+				"exp_ItemTypeExplosive"
+			],
+			[
+				"Onplause",
+				"OnPlayerUseItem"
+			],
+			[
+				"YBRE",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"YRETURN",
+				"Y_HOOKS_CONTINUE_RETURN_1"
+			],
+			[
+				"setplaprogre",
+				"SetPlayerProgressBarValue"
+			],
+			[
+				"Setplrpo",
+				"SetPlayerProgressBarValue"
+			],
+			[
+				"ONfil",
+				"OnFilterScriptExit"
+			],
+			[
+				"Getplayercontainer",
+				"GetPlayerCurrentContainer"
+			],
+			[
+				"Onplapick",
+				"OnPlayerPickUpItem"
+			],
+			[
+				"CurrentBag",
+				"bag_CurrentBag"
+			],
+			[
+				"Ondisconc",
+				"OnPlayerDisconnect"
+			],
+			[
+				"YBREAK",
+				"Y_HOOKS_BREAK_RETURN_0"
+			],
+			[
+				"bagitemtype",
+				"bag_itemtype"
+			],
+			[
+				"itemtypebag",
+				"bag_ItemTypeBagType"
+			],
+			[
+				"itemlarge",
+				"item_LargeBox"
+			],
+			[
+				"Crowbar",
+				"item_Crowbar"
+			],
+			[
+				"FALL_TYPE",
+				"FALL_TYPE_ROTATE"
+			],
+			[
+				"item_cac",
+				"item_CakeSlice"
+			],
+			[
+				"SetDynamicObj",
+				"SetDynamicObjectRot"
+			],
+			[
+				"KEY_",
+				"KEY_SPRINT"
+			],
+			[
+				"KEY",
+				"KEY_FIRE"
+			],
+			[
+				"Setdyna",
+				"SetDynamicObjectMaterial"
+			],
+			[
+				"Toggle",
+				"TogglePlayerControllable"
+			],
+			[
+				"StreamerToggle",
+				"Streamer_ToggleIdleUpdate"
+			],
+			[
+				"SetDynao",
+				"SetDynamicObjectRot"
+			],
+			[
+				"YHOBRE",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"colour",
+				"colour_at"
+			],
+			[
+				"item_mask",
+				"item_HockeyMask"
+			],
+			[
+				"tree_index",
+				"tree_Index"
+			],
+			[
+				"treedesert",
+				"tree_Desert"
+			],
+			[
+				"treeDark",
+				"tree_DarkForest"
+			],
+			[
+				"treeCategory",
+				"treeCategory_IndexTotal"
+			],
+			[
+				"treespecie",
+				"tree_species"
+			],
+			[
+				"category",
+				"category_name"
+			],
+			[
+				"igr",
+				"iGridY"
+			],
+			[
+				"ChatMs",
+				"ChatMsg"
+			],
+			[
+				"lang_total",
+				"lang_Total"
+			],
+			[
+				"YHO",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"Calibre",
+				"itmw_calibre"
+			],
+			[
+				"GetWeaponItem",
+				"GetItemWeaponItemAmmoItem"
+			],
+			[
+				"dialog_",
+				"Dialog_Show"
+			],
+			[
+				"lang_repl",
+				"lang_repl_key"
+			],
+			[
+				"skip_",
+				"skip_until_newline"
+			],
+			[
+				"GetLanguage",
+				"GetPlayerLanguage"
+			],
+			[
+				"MAXHAND",
+				"MAX_DEBUG_HANDLER_NAME"
+			],
+			[
+				"YRET1",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"YCOt",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"continue",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"CONTIN",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"YHRE1",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"YHORE",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"HOOK1",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"YCONITNRE",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"YCONTINU",
+				"Y_HOOKS_CONTINUE_RETURN_0"
+			],
+			[
+				"Y_HOOKS_",
+				"Y_HOOKS_BREAK_RETURN_1"
+			],
+			[
+				"tempvec",
+				"temp_vector"
+			],
+			[
+				"map",
+				"map_data"
+			],
+			[
+				"VEHCATE",
+				"VEHICLE_CATEGORY_CAR"
+			],
+			[
+				"vgroup",
+				"vgroup_Police"
+			],
+			[
+				"ALS",
+				"ALS	ALS Callback"
+			],
+			[
+				"IsPlayerInDyn",
+				"IsPlayerInDynamicArea"
+			],
+			[
+				"load",
+				"load_obj"
+			],
+			[
+				"alphabet",
+				"alphabet_idx"
+			],
+			[
+				"MAX_LNENTR",
+				"MAX_LANGUAGE_ENTRY_LENGTH"
+			],
+			[
+				"MAX_LANGUEEN",
+				"MAX_LANGUAGE_ENTRY_LENGTH"
+			],
+			[
+				"MAX_LA",
+				"MAX_LANGUAGE_ENTRY_LENGTH"
+			],
+			[
+				"Alphabetm",
+				"lang_AlphabetMap"
+			],
+			[
+				"MAX_LANGU",
+				"MAX_LANGUAGE_ENTRIES"
+			],
+			[
+				"fo",
+				"fopen"
+			],
+			[
+				"FUEL",
+				"SCRAP_MACHINE_FUEL_USAGE"
+			],
+			[
+				"GetItemArra",
+				"GetItemArrayDataAtCell"
+			],
+			[
+				"scrapmachine",
+				"scrapmachineid"
+			],
+			[
+				"include",
+				"include	#include <…>"
+			],
+			[
+				"scamachi",
+				"scrapmachineid"
+			],
+			[
+				"MAX_MACHINE",
+				"MAX_MACHINE_NAME"
+			],
+			[
+				"cooking",
+				"sm_cooking"
+			],
+			[
+				"ShowPl",
+				"ShowPlayerDialog"
+			],
+			[
+				"scrapmachi",
+				"scrapmachineid"
+			],
+			[
+				"constructionset",
+				"wb_ConstructionSetWorkbench"
+			],
+			[
+				"MAX_CONST",
+				"MAX_CONSTRUCT_SET_ITEMS"
+			],
+			[
+				"workbench",
+				"workbenchid"
+			],
+			[
+				"constotal",
+				"cons_Total"
+			],
+			[
+				"MAX_CONSTR",
+				"MAX_CONSTRUCT_SET"
+			],
+			[
+				"MAXWORKBE",
+				"MAX_WORK_BENCH_ITEMS"
+			],
+			[
+				"wbbutton",
+				"wb_buttonId"
+			],
+			[
+				"Setvehparam",
+				"SetVehicleParamsForPlayer"
+			],
+			[
+				"SetVehiclePara",
+				"SetVehicleParamsEx"
+			],
+			[
+				"zd",
+				"zdiff"
+			],
+			[
+				"SetVehicle",
+				"SetVehicleZAngle"
+			],
+			[
+				"GetVehicle",
+				"GetVehicleZAngle"
+			],
+			[
+				"Create3D",
+				"Create3DTextLabel"
+			],
+			[
+				"MAX_CONSTRUCT",
+				"MAX_CONSTRUCT_SET_ITEMS"
+			],
+			[
+				"conscraftset",
+				"cons_CraftsetConstructSet"
+			],
+			[
+				"MAXPLA",
+				"MAX_PLAYERS"
+			],
+			[
+				"item_Ham",
+				"item_Hammer"
+			],
+			[
+				"file",
+				"process_file"
+			],
+			[
+				"bl",
+				"block_begin"
+			],
+			[
+				"block",
+				"block_end"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"MAX_LIQ",
+				"MAX_LIQUID_TYPES"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/PAWN-nightly.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/PackageDev/Support/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PAWN-nightly.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PAWN-nightly.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PAWN-nightly.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PAWN-nightly.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Pawn.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Pawn.sublime-build",
+					"Preprocessed output"
+				],
+				[
+					"Packages/User/Pawn.sublime-build",
+					"P-code output"
+				],
+				[
+					"Packages/User/Pawn.sublime-build",
+					"Debug Mode - CrashDetect"
+				]
+			],
+			[
+				"Packages/User/Pawn.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"scal",
+				"Set Syntax: Scala"
+			],
+			[
+				"paw",
+				"Set Syntax: Pawn"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"py",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"completio",
+				"Set Syntax: Sublime Completions"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"c impr",
+				"Set Syntax: C Improved"
+			],
+			[
+				"Set Syntax C",
+				"Set Syntax: C"
+			],
+			[
+				"prepro",
+				"Build With: Pawn - Preprocessed output"
+			],
+			[
+				"prep",
+				"Build With: Pawn - Preprocessed output"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"packageremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageupda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"yal",
+				"Set Syntax: YAML"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"pawn",
+				"Build With: Pawn - P-code output"
+			],
+			[
+				"asm",
+				"Set Syntax: AVR ASM"
+			],
+			[
+				"git ",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"gitanno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"packageinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"git ann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"jon",
+				"Set Syntax: JSON"
+			],
+			[
+				"anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"annota",
+				"Git: Toggle Annotations"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"preproce",
+				"Build With: Pawn - Preprocessed output"
+			],
+			[
+				"pre",
+				"Build With: Pawn - Preprocessed output"
+			],
+			[
+				"prepr",
+				"Build With: Pawn - Preprocessed output"
+			],
+			[
+				"formatter",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"preprocess",
+				"Build With: Pawn - Preprocessed output"
+			],
+			[
+				"formatht",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"formathtml",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gitdiff",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"profile events",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cloj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"pcod",
+				"Build With: Pawn - P-code output"
+			],
+			[
+				"pcode",
+				"Build With: Pawn - P-code output"
+			],
+			[
+				"pco",
+				"Build With: Pawn - P-code output"
+			],
+			[
+				"jinja",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"replpy",
+				"SublimeREPL: Python"
+			],
+			[
+				"replp",
+				"SublimeREPL: Python"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"syntax",
+				"Set Syntax: Scala"
+			],
+			[
+				"set syntax",
+				"Set Syntax: Swift"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"markdownp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
+				"setbitsp",
+				"Hex Viewer: Set Bits Per Group"
+			],
+			[
+				"hexviewerset",
+				"Hex Viewer: Set Bits Per Group"
+			],
+			[
+				"hexviewer",
+				"Hex Viewer: Set Bytes Per Line"
+			],
+			[
+				"hex viewer",
+				"Hex Viewer: Generate Hash"
+			],
+			[
+				"markdownpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"warp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"replpython",
+				"SublimeREPL: Python"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"package control ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"gitd",
+				"Git: Diff Current File"
+			],
+			[
+				"replyp",
+				"SublimeREPL: Python"
+			],
+			[
+				"markdownpreview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Perl"
+			],
+			[
+				"pscal",
+				"SublimeREPL: Scala"
+			],
+			[
+				"scala",
+				"Set Syntax: Scala"
+			],
+			[
+				"gitselec",
+				"Git: Document Selection"
+			],
+			[
+				"trim",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pythonr",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"sca",
+				"Set Syntax: Scala"
+			],
+			[
+				"subreplpyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"clojure",
+				"Set Syntax: Clojure"
+			],
+			[
+				"gt",
+				"Git: Toggle Annotations"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"git custom",
+				"Git: Custom Command"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git to",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"packinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sc al",
+				"Set Syntax: Scala"
+			],
+			[
+				"rub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"node",
+				"SublimeREPL: Node"
+			],
+			[
+				"replper",
+				"SublimeREPL: Perl"
+			],
+			[
+				"markdownediting",
+				"MarkdownEditing: Add Missing Link Labels"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"modi",
+				"Modific: Show uncommitted files"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"gitg",
+				"GitGutter: Show Comparing Against"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 229.0,
+		"history":
+		[
+			"build",
+			"view.run_command(\"open_wiki_on_string\")",
+			"view.run_command(\"OpenWikiOnString\")",
+			"import OpenWikiOnString",
+			"OpenWikiOnString.run()",
+			"OpenWikiOnString()",
+			"OpenWikiOnString",
+			"exec(\"open_wiki_on_string\")",
+			"open_wiki_on_string",
+			"import webbrowser;webbrowser.open_new(\"chrome://blank\")",
+			"import webbrowser",
+			"webbrowser.open_new(\"chrome://blank\")",
+			"import webbrowser",
+			"webbrowser.open_new(\"chrome://blank\")",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"0.window.show_input_panel(\"Set Pawn build path\", \"C:\\\\Pawno\\\\\", self.onPawnPathDone, None, None)",
+			"window.show_input_panel(\"Set Pawn build path\", \"C:\\\\Pawno\\\\\", self.onPawnPathDone, None, None)",
+			"show_input_panel(\"Set Pawn build path\", \"C:\\\\Pawno\\\\\", self.onPawnPathDone, None, None)",
+			"window().show_input_panel(\"Set Pawn build path\", \"C:\\\\Pawno\\\\\", self.onPawnPathDone, None, None)",
+			"this.view.window().show_input_panel(\"Set Pawn build path\", \"C:\\\\Pawno\\\\\", self.onPawnPathDone, None, None)",
+			"view.window().show_input_panel(\"Set Pawn build path\", \"C:\\\\Pawno\\\\\", self.onPawnPathDone, None, None)",
+			"self.view.window().show_input_panel(\"Set Pawn build path\", \"C:\\\\Pawno\\\\\", self.onPawnPathDone, None, None)",
+			"show_input_panel(\"Set Pawn build path\", \"C:\\\\Pawno\\\\\", self.onPawnPathDone, None, None)",
+			"show_input_panel",
+			"ctags",
+			"ctags -R -f .tags",
+			"view.run_command(\"irc\", {\"server\": \"irc.freenode.net\", \"target\": \"#sublimetext\"})"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Documents/Projects/southclaw.github.io"
+	],
+	"file_history":
+	[
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/safebox-io.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/safebox.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/server/init.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/ScavengeSurvive.pwn",
+		"/E/Documents/Drive/HowOnEarthMedia/Resources/Music/links.txt",
+		"/E/Documents/Projects/wp-to-md/wp-to-md.py",
+		"/E/Documents/Projects/wp-to-md/README.md",
+		"/E/Documents/Projects/wp-to-md/southclaw.wordpress.2015-08-17.xml",
+		"/E/Documents/Projects/southclaw.github.io/Gemfile",
+		"/E/Documents/Projects/southclaw.github.io/_layouts/default.html",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2012-10-05-zipline-in-sa-mp-script-overview-part-2-the-actual-zip-part.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2012-10-04-zipline-in-sa-mp-script-overview-part-1-line-segments.markdown",
+		"/E/Documents/Projects/southclaw.github.io/.gitignore",
+		"/E/Documents/Projects/wp-to-md/.gitignore",
+		"/E/Documents/Projects/southclaw.github.io/Gemfile.lock",
+		"/E/Documents/Projects/wp-to-md/_posts/2012-10-05-zipline-in-sa-mp-script-overview-part-2-the-actual-zip-part.markdown",
+		"/E/Documents/Projects/wp-to-md/_posts/2012-10-04-zipline-in-sa-mp-script-overview-part-1-line-segments.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2014-12-12-how-to-prevent-kill-on-sight-in-a-multiplayer-survival-game-to-an-extent.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2012-11-09-sa-mp-adventure-api-project.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2013-07-16-new-puzzle-in-the-latest-scavenge-survive-update.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2013-08-17-4-brand-new-code-releases.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2012-09-20-so-what-do-i-do.markdown",
+		"/E/Documents/Projects/wp-to-md/_posts/2014-08-12-improving-productivity-with-sublime-text-installation-tips-tricks.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2014-08-12-improving-productivity-with-sublime-text-installation-tips-tricks.markdown",
+		"/E/Documents/Projects/wp-to-md/_posts/2012-11-27-sa-mp-crafting-item-combination-finally-written.markdown",
+		"/E/Documents/Projects/wp-to-md/_posts/2012-09-19-me.markdown",
+		"/E/Documents/Projects/wp-to-md/_posts/2013-06-30-new-minigame-and-in-record-time.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_posts/2016-06-01-welcome-to-jekyll.markdown",
+		"/E/Documents/Projects/wp-to-md/_posts/2012-12-15-git-repository-set-up-for-open-source-code.markdown",
+		"/E/Documents/Projects/southclaw.github.io/_includes/head.html",
+		"/E/Documents/Projects/site/southclaw.wordpress.2015-08-17.xml",
+		"/C/RubyDevKit/config.yml",
+		"/E/Documents/Projects/southclaw.github.io/README.md",
+		"/E/Games/Projects/SA-MP/Blank/server.cfg",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/data/languages/English",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/utils/item.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/explosive.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/tntproxmine.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/tntphonebomb.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Debug.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/fuel.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/liquid-container.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/vehicle/interact.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/player/save-load.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/YSI_Coding/y_hooks/impl.inc",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Button.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Item.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/server_log.txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/player/disallow-actions.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/world/puzzles/mtchill.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles/data/settings.ini",
+		"/E/Documents/Drive/HowOnEarthMedia/Resources/Logo/palette.txt",
+		"/E/Documents/Videos/HowOnEarth/Resources/HowOnEarthLogo/palette.txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/torso.pwn",
+		"/E/Documents/Videos/Resources/ideas.txt",
+		"/E/Documents/Projects/southnet/notes.txt",
+		"/E/END",
+		"/C/Symbols/pingme.txt",
+		"/C/Symbols/cmd.pdb/EC6F7D59476D40A5A7F2328BFB3248682/cmd.pdb",
+		"/C/Program Files/Application Verifier/vrfauto.idl",
+		"/C/Program Files/Application Verifier/vrfauto.h",
+		"/C/Users/Southclaw/Desktop/rd_scripts_readme.txt",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/char/inventory.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/seedbag.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/char/backpack.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/extensions/ItemArrayData.inc",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/scriptfiles-folder/data/languages/English",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/gascan.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/vehicle/repair.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/liquid.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/utils/vehicle.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurviveStable/server.cfg",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/food.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/data/loot.pwn",
+		"/E/Games/Projects/SA-MP/Blank/filterscripts/floats.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/plantpot.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/admin/level3.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/admin/level5.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/admin/level4.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/weapon/core.pwn",
+		"/E/Documents/Projects/futurama-transcripts/transcripts/001 - Space Pilot 3000.html",
+		"/E/Documents/Projects/futurama-transcripts/fmt_list.txt",
+		"/E/Documents/Projects/futurama-transcripts/todb.py",
+		"/E/Documents/Projects/futurama-transcripts/list.txt",
+		"/E/Documents/Projects/futurama-transcripts/transcripts/Transcript%3AThe_Devil's_Hands_Are_Idle_Playthings",
+		"/E/Documents/Projects/futurama-transcripts/scrape.py",
+		"/E/Documents/Projects/futurama-transcripts/listing.html",
+		"/E/Documents/Projects/futurama-transcripts/Transcript%3ASpace_Pilot_3000",
+		"/E/Games/Projects/SA-MP/pawno/include/YSI_Internal/y_unique.inc",
+		"/E/Games/Projects/SA-MP/pawno/include/YSI_AC/y_ac@do_compiler_long_fix/utils/IsPlayerAtVendingMachine.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/YSI_Coding/y_hooks.inc",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/bottle.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/char/food.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/weapon/ammunition.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/item/tnttimebomb.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/filterscripts/exp.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/char/holster.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/loot.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/defences.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/sign.pwn",
+		"/C/Program Files (x86)/Sublime Text 3/Data/Settings/SideBarEnhancements.json",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/player/core.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/filterscripts/defence.pwn",
+		"/E/Games/Projects/SA-MP/Blank/filterscripts/pbe.pwn",
+		"/E/Games/Projects/SA-MP/Releases/progress2/progress2.inc",
+		"/E/Games/Projects/SA-MP/Blank/filterscripts/bar.pwn",
+		"/E/Games/Projects/SA-MP/Blank/scriptfiles/HungerBar.pwn",
+		"/E/Games/Projects/SA-MP/Releases/SIF/SIF/Item.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/extensions/ContainerDialog.inc",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/extensions/Craft.inc",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/extensions/Dispenser.inc",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/extensions/InventoryDialog.inc",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/extensions/InventoryKeys.inc",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/extensions/MultiButton.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/extensions/Notebook.inc",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Inventory.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Container.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Core.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/Door.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/examples/itemarray-itemlist-modio.pwn",
+		"/E/Games/Projects/SA-MP/pawno/include/SIF/testing/Button.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/gravestone.pwn",
+		"/E/Games/Projects/SA-MP/Blank/gamemodes/sif.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/water-purifier.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/misc/water_fetch.py",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/gamemodes/sss/core/world/refine-machine.pwn",
+		"/E/Games/Projects/SA-MP/ScavengeSurvive/README.md",
+		"/E/Games/Projects/SA-MP/ScavengeSurviveStable/start.bat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\filterscripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Documents\\Uni\\Year 2\\AMG\\n0581491\\NucleusGL_3",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\misc",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF_YSI_4",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\filterscripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\filterscripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\sss",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\ss\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\ss\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\ss",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\filterscripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\World\\Zones",
+			"E:\\Games\\Projects\\SA-MP\\Blank",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\YSI",
+			"E:\\Games\\Projects\\SA-MP\\samp-Hellfire\\scripts",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"C:\\Program Files (x86)\\Sublime Text 3\\Data\\Packages\\pawn-sublime-language",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"C:\\Users\\Southclaw\\Desktop\\C++",
+			"C:\\Users\\Southclaw\\Desktop\\C#",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\filterscripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\YSI",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Programs\\Steam",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\Vehicles",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\Maps",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\YSI",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\YSI",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\Vehicles",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\scriptfiles\\Maps",
+			"C:\\Users\\Southclaw\\Desktop\\maps",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\utils",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\steamcmd\\insurgency",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"C:\\Program Files (x86)\\Sublime Text 3\\Packages\\Theme - Cyanide",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\filterscripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core\\Player",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawnostable\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\git-repositories\\pawn-sublime-language\\C++",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawnostable\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\filterscripts",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawnostable\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core\\Vehicle",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\World\\Zones",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes\\SS\\Core",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\Releases\\SIF\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include\\SIF",
+			"E:\\Games\\Projects\\SA-MP\\pawno\\include",
+			"E:\\Games\\Projects\\SA-MP\\ScavengeSurvive\\gamemodes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post.content",
+			"\\[(sourcecode language=\\\"[a-zA-Z0-9]*\\\")|(code language=\\\"[a-zA-Z0-9]*\\\")|(code lang=\\w+)\\]",
+			"sqlitei",
+			"(sourcecode language=\\\"[a-zA-Z0-9]*\\\")|(code language=\\\"[a-zA-Z0-9]*\\\")|(code lang=)",
+			"(sourcecode language=\\\"[a-zA-Z0-9]*\\\")|(code language=\\\"[a-zA-Z0-9]*\\\")",
+			"\\[(sourcecode language=\\\"[a-zA-Z0-9]*\\\")|(code language=\\\"[a-zA-Z0-9]*\\\")](.*?)\\[\\/sourcecode\\]",
+			"\\[(sourcecode language=\\\"[a-zA-Z0-9]*\\\"",
+			"\\[code lang=\\\"[a-zA-Z0-9]*\\\"\\]",
+			"\\[[a-zA-Z0-9]*=\\\"[a-zA-Z0-9]*\\\"\\]",
+			"\\[[a-zA-Z0-9]*=\\\"[a-zA-Z0-9]*\\\"\\](.*?)",
+			"\\[[a-zA-Z0-9]*=\\\"[a-zA-Z0-9]*\\\"\\](.*?)\\[\\/sourcecode\\]",
+			"\\[code lang",
+			"\\[code lang=\\\"[a-zA-Z0-9]*\\\"\\]",
+			"\\[sourcecode language=\\\"[a-zA-Z0-9]*\\\"\\]",
+			"\\[sourcecode|codd language|lang=\\\"[a-zA-Z0-9]*\\\"\\]",
+			"\\[sourcecode|codd language|lang=\\\"[a-zA-Z0-9]*\\\"\\](.*?)\\[\\/sourcecode\\]",
+			"Improving",
+			"Improving Productivity with Sublime Text (Installation",
+			"coderegex",
+			"\\[sourcecode language=\\\"[a-zA-Z+]*\\\"\\](.*)",
+			"\\[sourcecode language=\\\"[a-zA-Z+]*\\\"\\]",
+			"\\[sourcecode language=\\\"[a-zA-Z+]\\\"\\]",
+			"\\[sourcecode language=\"java\"\\](.*)\\[\\/sourcecode\\]",
+			"minecraft",
+			"post.date.",
+			"<pubDate>",
+			" +",
+			"pubDate",
+			"Three new ",
+			"pubdate",
+			"pubDate",
+			"New Minigame",
+			"pubData",
+			"guid isPermaLink",
+			"load_posts",
+			"<item>",
+			"load_wp",
+			"wp",
+			"box_",
+			"itemtype",
+			"CheckForDuplicateGEID",
+			"box_GEID_Index",
+			"box_GEID",
+			"-1;",
+			") = ",
+			"box_GEID_Index",
+			"box_GEID[boxitemid]",
+			"box_GEID[itemid]",
+			"box_GEID",
+			"Destroyitem",
+			"item_Pizza",
+			"DefineFOod",
+			"3);",
+			"box_GEID",
+			"box_",
+			"box_CurrentBoxItem[playerid]",
+			"box_CurrentBoxItem",
+			"box_",
+			"SafeBox",
+			"box_",
+			"itemtype",
+			"exp_ItemTypeExplosive",
+			"RADIONOSYNC",
+			"SetItemToExplode",
+			"exp_ItemTypeExplosive",
+			"item_",
+			"item_MobilePhone",
+			"ARMED",
+			"TNTPHBARMED",
+			"PH",
+			"tnt",
+			"StartHoldAction",
+			"exp_ArmTick",
+			"tntp_SyncTick",
+			"SetItemToExplode",
+			"OnItemCreate",
+			"varea_NearIndex",
+			"varea_NearList",
+			"printf",
+			"varea_AreaID",
+			"varea_NearIndex",
+			", i",
+			"IsPlayerAtVehicleBonnet",
+			"varea_NearIndex",
+			"IsPlayerAtVehicleTrunk",
+			"IsPlayerAtVehicleBonnet",
+			"IsPlayerAtAnyVehicleBonnet",
+			"IsPlayerAtAny",
+			"GLOBAL_DEBUG",
+			"HANDLER",
+			"fuel_CurrentlyRefuelling",
+			"print",
+			"Southclaw",
+			"\"FUEL",
+			"empty",
+			"IsPlayerAtAnyVehicleBonnet",
+			"GLOBAL_DEBUG",
+			"fuel_CurrentlyRefuelling",
+			"OnPlayerDrink",
+			"OnPlayerRelButtonWithItem",
+			"itm_CurrentButton",
+			"itm_Interacting",
+			"_PlayerKeyHandle_Release",
+			"OnPlayerUseItemWithButton",
+			"OnButtonRelease",
+			"OnPlayerConnect",
+			"GLOBAL_DEBUG",
+			"gamemodes/sss/core/item/food",
+			"GLOBAL_DEBUG",
+			"OnPlayerUseItemWithBtn",
+			"[OnPlayerUseItemWithBtn] ",
+			"OnPlayerUseItemWithBtn",
+			"OnPlayerUseItemWithButton",
+			"internal_OnPlayerUseItem",
+			"PlayerUseItem",
+			"_StartDrinking",
+			"_StopDrinking",
+			"keystate",
+			"PlayerUseItem",
+			"_PlayerKeyHandle_Use",
+			"SIF_DEBUG_LEVEL_INTERFACE",
+			"internal_OnPlayerUseItem",
+			"PlayerUseItem",
+			"internal_OnPlayerUseItem",
+			"foreach",
+			"id",
+			"fuel_Index",
+			"MAX_FUEL_LOCATIONS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<YSI",
+			"ChatMsgAll",
+			"hook $1($2)\n{",
+			"hook On$1($2)\n{",
+			"hook On$1($2)\n{\n	d:GLOBAL_DEBUG(\"[$1] in FILENAME\");",
+			"ls(playerid, \"$1\")",
+			"lang(playerid, \"$1\")",
+			"#include <YSI\\",
+			"#include <SIF",
+			"OnPlayerUseItemWithBtn",
+			"OnItemRemoveFromCnt",
+			"yH_OnItemRemoveFromCnt",
+			"hook OnUnoccupiedVehicleUpd",
+			"hook OnPlayerUseItemWithItem",
+			"hook OnPlayerUseItem",
+			"OnPlayerSpawnNewChar",
+			"OnPlayerCreateChar",
+			"OnPlayerSpawnChar",
+			"hook OnPlayerEnterDynArea",
+			"#include <YSI_4\\",
+			"OnPlayerClickPlayerTD",
+			"   Iterator:",
+			"<YSI_4\\",
+			"   Iterator:",
+			"Armed for 5 seconds",
+			"StopHoldAction",
+			"SetPlayerBrightness",
+			"STAFF_LEVEL_DEVELOPER",
+			"STAFF_LEVEL_ADMINISTRATOR",
+			"STAFF_LEVEL_MODERATOR",
+			"STAFF_LEVEL_GAME_MASTER",
+			"STAFF_LEVEL_",
+			"veh_$1UI",
+			"if(GetItemLootIndex(itemid) != -1)",
+			"GetItemLootIndex",
+			"",
+			"CreateStaticLootSpawn($1$4, $3, $2);",
+			"CreateStaticLootSpawn($1$4,$3,$2);",
+			"CreateStaticLootSpawn($1,$4,$3,$2);",
+			"CreateStaticLootSpawn",
+			"CreateWorldVehicle",
+			"OnScriptExit",
+			"Colour",
+			"	SIF Version: 1.4.0",
+			"OnPlayerClickPlayerTextDraw",
+			"OnPlayerClickPlayerTD",
+			"print(\"\\n[OnScriptInit",
+			"print(\"\\n[OnGameModeInit",
+			"// TODO",
+			"print(\"[OnGameModeInit",
+			"log(\"[OnGameModeInit]",
+			"forward $1_OnItemNameRender(itemid, ItemType:itemtype);",
+			"public OnItemNameRender(itemid, ItemType:itemtype)",
+			"return $1_OnItemNameRender(itemid, itemtype);",
+			"_OnItemNameRender(itemid, itemtype);",
+			"OnPlayerClickPlayerTD",
+			"#if defined $1\n        return $1($3);\n    #else\n        return 0;\n    #endif",
+			"#if defined $1\n        return $1($2);\n    #else\n        return 0;\n    #endif",
+			"#define $1 $2\n#if defined $2\n	forward $2($3);\n#endif",
+			"#if defined $1\n		return $1($2);\n	#else\n		return 0;\n	#endif",
+			"#define $1 $2\n#if defined $2\n	forward $2($3);\n#endif",
+			"#if defined $1\n		return $1();\n	#else\n		return 0;\n	#endif",
+			"#define $1 $2\n#if defined $2\n	forward $2($3);\n#endif",
+			"#if defined $1\n		return $1();\n	#else\n		return 0;\n	#endif",
+			"#define $1 $2\n#if defined $2\n    forward $2($3);\n#endif",
+			"#if defined $1\n        $1();\n    #elseif\n        return 0;\n    #endif",
+			"#define $1 $2\n#if defined $2\n    forward $2($3);\n#endif",
+			"#if defined $1\n        $1();\n    #elseif\n        return 0;\n    #endif",
+			"#if defined $1\n        return $1($2);\n    #else\n        return 0;\n    #endif",
+			"#define $1 $2\n#if defined $2\n    forward $2($3);\n#endif",
+			"#if defined $1\n        return $1($2);\n    #else\n        return 0;\n    #endif",
+			"#if defined $1\n        return $1($2);\n    #elseif\n        return 0;\n    #endif",
+			"OnPlayerClickPlayerTextDraw",
+			"MAX_VEHICLES",
+			"IsValidVehicle",
+			"OnPlayerClickPlayerTextDraw",
+			"<SIF\\",
+			"OnPlayerLeaveDynArea",
+			"OnPlayerEnterDynArea",
+			"hook OnPlayerClickPlayerTD",
+			"	print(\"$1\");\n	return CallLocalFunction(\"$1_OnPlayerUseItem\"",
+			"print(\"$1\");\n	return CallLocalFunction(\"$1_O",
+			"print(\"$1\");\nreturn CallLocalFunction(\"$1_OnPlayerUseItem\"",
+			"Dialog_Show($1",
+			"source.pawn",
+			"",
+			"source.pawn",
+			"hook OnScriptInit()",
+			"hook OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])\n{\n	print(\"OnDialogResponse\");	",
+			"	",
+			"D-Sides Disk 1\\\\$1-",
+			"$1",
+			"source.pwn, source.inc",
+			"{$1, $2, $3, $4, $5, $6, $7}",
+			"#define $1 $2\n#if defined $2\n    forward $2($3);\n#endif",
+			"#if defined $1\n        return $1($2);\n    #elseif\n        return 0;\n    #endif",
+			"#if defined $1\n        $1();\n    #elseif\n        return 0;\n    #endif",
+			"ply_Data",
+			"IsPlayerOnAdminDuty($1)",
+			"#define $1 $2\n#if defined $2\n	forward $2($3);\n#endif",
+			"#if defined $1\n		return $1($2);\n	#endif",
+			"#define $1 $2\n#if defined $2\n	forward $2($3);\n#endif",
+			"#if defined $1\n		return $1($2);\n	#endif",
+			"#define $1 $2\n#if defined $2\n	forward $2($3);\n#endif",
+			"#define $2 $1\n#if defined $1\n	forward $1($3);\n#endif",
+			"$1\n#if defined $2\n	forward $2($3);\n#endif",
+			"$1\n#if defined $2\n		forward $2($3);\n	#endif",
+			"$1",
+			"#if defined $1\n		$1($2);\n	#endif",
+			"#if defined $1\n		$1();\n	#endif",
+			"#if defined $1\n		$1($2);\n	#endif",
+			"#if defined $1\n		$1();\n	#endif",
+			"#if defined $1\n	$1($2);\n#endif",
+			"$1($2);",
+			"$1();",
+			"{0}();",
+			"KEYTEXT_",
+			"GetTickCount()",
+			"\"$2\"",
+			"	#else\n		return 0;\n	#endif\n",
+			"IsVehicleLocked",
+			"if(!IsPlayerConnected(playerid))",
+			"IsPlayerKnockedOut($1)",
+			"gpci",
+			"OnPlayerInteractVehicle",
+			"bot",
+			"PLAYER_INV_FILE",
+			"PLAYER_DAT_FILE"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 176.0
+	},
+	"output.package_dev":
+	{
+		"height": 88.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 429.0
+	},
+	"output.vcs":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "Packages/User/Pawn.sublime-build",
+	"project": "southclaw.github.io.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"init",
+				"gamemodes\\sss\\core\\server\\init.pwn"
+			],
+			[
+				"utilsitem",
+				"gamemodes\\sss\\utils\\item.pwn"
+			],
+			[
+				"prox",
+				"gamemodes\\sss\\core\\item\\tntproxmine.pwn"
+			],
+			[
+				"english",
+				"scriptfiles\\data\\languages\\English"
+			],
+			[
+				"phone",
+				"gamemodes\\sss\\core\\item\\tntphonebomb.pwn"
+			],
+			[
+				"explosi",
+				"gamemodes\\sss\\core\\world\\explosive.pwn"
+			],
+			[
+				"vehinter",
+				"gamemodes\\sss\\core\\vehicle\\interact.pwn"
+			],
+			[
+				"fuel",
+				"gamemodes\\sss\\core\\world\\fuel.pwn"
+			],
+			[
+				"dislalow",
+				"gamemodes\\sss\\core\\player\\disallow-actions.pwn"
+			],
+			[
+				"button",
+				"include\\SIF\\Button.pwn"
+			],
+			[
+				"yhookimpl",
+				"include\\YSI_Coding\\y_hooks\\impl.inc"
+			],
+			[
+				"sifdebug",
+				"include\\SIF\\Debug.pwn"
+			],
+			[
+				"setting",
+				"scriptfiles\\data\\settings.ini"
+			],
+			[
+				"item",
+				"include\\SIF\\Item.pwn"
+			],
+			[
+				"liquidcon",
+				"gamemodes\\sss\\core\\item\\liquid-container.pwn"
+			],
+			[
+				"safebn",
+				"gamemodes\\sss\\core\\world\\safebox.pwn"
+			],
+			[
+				"inventory",
+				"gamemodes\\sss\\core\\char\\inventory.pwn"
+			],
+			[
+				"backpa",
+				"gamemodes\\sss\\core\\char\\backpack.pwn"
+			],
+			[
+				"seed",
+				"gamemodes\\sss\\core\\item\\seedbag.pwn"
+			],
+			[
+				"torso",
+				"gamemodes\\sss\\core\\item\\torso.pwn"
+			],
+			[
+				"itemarra",
+				"include\\SIF\\extensions\\ItemArrayData.inc"
+			],
+			[
+				"gasca",
+				"gamemodes\\sss\\core\\item\\gascan.pwn"
+			],
+			[
+				"refuel",
+				"gamemodes\\sss\\core\\world\\fuel.pwn"
+			],
+			[
+				"disallow",
+				"gamemodes\\sss\\core\\player\\disallow-actions.pwn"
+			],
+			[
+				"vehicleinterac",
+				"gamemodes\\sss\\core\\vehicle\\interact.pwn"
+			],
+			[
+				"vehicle",
+				"gamemodes\\sss\\utils\\vehicle.pwn"
+			],
+			[
+				"repair",
+				"gamemodes\\sss\\core\\vehicle\\repair.pwn"
+			],
+			[
+				"liquid",
+				"gamemodes\\sss\\core\\item\\liquid-container.pwn"
+			],
+			[
+				"loot",
+				"gamemodes\\sss\\data\\loot.pwn"
+			],
+			[
+				"setti",
+				"scriptfiles\\data\\settings.ini"
+			],
+			[
+				"plantpo",
+				"gamemodes\\sss\\core\\item\\plantpot.pwn"
+			],
+			[
+				"safebox",
+				"gamemodes\\sss\\core\\world\\safebox.pwn"
+			],
+			[
+				"level3",
+				"gamemodes\\sss\\core\\admin\\level3.pwn"
+			],
+			[
+				"level4",
+				"gamemodes\\sss\\core\\admin\\level4.pwn"
+			],
+			[
+				"level5",
+				"gamemodes\\sss\\core\\admin\\level5.pwn"
+			],
+			[
+				"sifitemaray",
+				"include\\SIF\\extensions\\ItemArrayData.inc"
+			],
+			[
+				"safebopx",
+				"gamemodes\\sss\\core\\world\\safebox.pwn"
+			],
+			[
+				"ysicoding",
+				"include\\YSI_AC\\y_ac@do_compiler_long_fix\\utils\\IsPlayerAtVendingMachine.pwn"
+			],
+			[
+				"ysi_coding",
+				"include\\YSI_Coding\\y_hooks.inc"
+			],
+			[
+				"yhooksimpl",
+				"include\\YSI_Coding\\y_hooks\\impl.inc"
+			],
+			[
+				"bottle",
+				"gamemodes\\sss\\core\\item\\bottle.pwn"
+			],
+			[
+				"food",
+				"gamemodes\\sss\\core\\item\\food.pwn"
+			],
+			[
+				"weaponcore",
+				"gamemodes\\sss\\core\\weapon\\core.pwn"
+			],
+			[
+				"ammunition",
+				"gamemodes\\sss\\core\\weapon\\ammunition.pwn"
+			],
+			[
+				"sifitem",
+				"include\\SIF\\Item.pwn"
+			],
+			[
+				"tnttime",
+				"gamemodes\\sss\\core\\item\\tnttimebomb.pwn"
+			],
+			[
+				"ini",
+				"gamemodes\\sss\\core\\server\\init.pwn"
+			],
+			[
+				"safebo",
+				"gamemodes\\sss\\core\\world\\safebox.pwn"
+			],
+			[
+				"backp",
+				"gamemodes\\sss\\core\\char\\backpack.pwn"
+			],
+			[
+				"explo",
+				"gamemodes\\sss\\core\\world\\explosive.pwn"
+			],
+			[
+				"plantpot",
+				"gamemodes\\sss\\core\\item\\plantpot.pwn"
+			],
+			[
+				"playercore",
+				"gamemodes\\sss\\core\\player\\core.pwn"
+			],
+			[
+				"defe",
+				"gamemodes\\sss\\core\\world\\defences.pwn"
+			],
+			[
+				"defence",
+				"filterscripts\\defence.pwn"
+			],
+			[
+				"progress2",
+				"Releases\\progress2\\progress2.inc"
+			],
+			[
+				"disallowa",
+				"gamemodes\\sss\\core\\player\\disallow-actions.pwn"
+			],
+			[
+				"releaseitem",
+				"Releases\\SIF\\SIF\\Item.pwn"
+			],
+			[
+				"backpack",
+				"gamemodes\\sss\\core\\char\\backpack.pwn"
+			],
+			[
+				"water",
+				"gamemodes\\sss\\core\\world\\water-purifier.pwn"
+			],
+			[
+				"weapondata",
+				"include\\WeaponData.inc"
+			],
+			[
+				"ladder",
+				"include\\Ladder.inc"
+			],
+			[
+				"util/",
+				"gamemodes\\sss\\utils\\player.pwn"
+			],
+			[
+				"sifbutton",
+				"include\\SIF\\Button.pwn"
+			],
+			[
+				"safenb",
+				"gamemodes\\sss\\core\\world\\safebox.pwn"
+			],
+			[
+				"loot.pwn",
+				"gamemodes\\sss\\data\\loot.pwn"
+			],
+			[
+				"masks",
+				"gamemodes\\sss\\core\\char\\masks.pwn"
+			],
+			[
+				"mask",
+				"gamemodes\\sss\\core\\char\\masks.pwn"
+			],
+			[
+				"cowh",
+				"gamemodes\\sss\\core\\item\\cowboyhat.pwn"
+			],
+			[
+				"port",
+				"scriptfiles\\data\\languages\\Português (PT-PT)"
+			],
+			[
+				"settingsin",
+				"scriptfiles\\data\\settings.ini"
+			],
+			[
+				"hat",
+				"gamemodes\\sss\\core\\char\\hats.pwn"
+			],
+			[
+				"craftcn",
+				"gamemodes\\sss\\core\\world\\craft-construct.pwn"
+			],
+			[
+				"chainsaw",
+				"gamemodes\\sss\\core\\item\\chainsaw.pwn"
+			],
+			[
+				"tree",
+				"gamemodes\\sss\\core\\world\\tree.pwn"
+			],
+			[
+				"sif",
+				"include\\SIF\\Item.pwn"
+			],
+			[
+				"geoloca",
+				"include\\geolocation.inc"
+			],
+			[
+				"craftconst",
+				"gamemodes\\sss\\core\\world\\craft-construct.pwn"
+			],
+			[
+				"worben",
+				"gamemodes\\sss\\core\\world\\workbench.pwn"
+			],
+			[
+				"level2",
+				"gamemodes\\sss\\core\\admin\\level2.pwn"
+			],
+			[
+				"mdsort",
+				"include\\md-sort.inc"
+			],
+			[
+				"strli",
+				"include\\strlib.inc"
+			],
+			[
+				"mapren",
+				"misc\\maprender.py"
+			],
+			[
+				"gentre",
+				"misc\\gentrees.py"
+			],
+			[
+				"formatex",
+				"include\\formatex.inc"
+			],
+			[
+				"sqlitei",
+				"include\\sqlitei.inc"
+			],
+			[
+				"region",
+				"misc\\region.py"
+			],
+			[
+				"mapand",
+				"misc\\mapandreas.py"
+			],
+			[
+				"mapandrea",
+				"misc\\mapandreas.py"
+			],
+			[
+				"regio",
+				"misc\\region.py"
+			],
+			[
+				"mapandreas",
+				"misc\\mapandreas.py"
+			],
+			[
+				"bitmapdata",
+				"misc\\bitmapdata.py"
+			],
+			[
+				"language",
+				"gamemodes\\sss\\core\\server\\language.pwn"
+			],
+			[
+				"detfield",
+				"gamemodes\\sss\\core\\admin\\detfield.pwn"
+			],
+			[
+				"vspawn",
+				"gamemodes\\sss\\core\\vehicle\\spawn.pwn"
+			],
+			[
+				"treeloader",
+				"gamemodes\\sss\\core\\world\\tree-loader.pwn"
+			],
+			[
+				"weapocore",
+				"gamemodes\\sss\\core\\weapon\\core.pwn"
+			],
+			[
+				"holdaction",
+				"gamemodes\\sss\\core\\ui\\hold-action.pwn"
+			],
+			[
+				"objlo",
+				"filterscripts\\object-loader.pwn"
+			],
+			[
+				"objectload",
+				"filterscripts\\object-loader.pwn"
+			],
+			[
+				"maprender",
+				"misc\\map-render.py"
+			],
+			[
+				"locator",
+				"gamemodes\\sss\\core\\item\\locator.pwn"
+			],
+			[
+				"vehicletrunk",
+				"gamemodes\\sss\\core\\vehicle\\trunk.pwn"
+			],
+			[
+				"wrldexplo",
+				"gamemodes\\sss\\core\\world\\explosive.pwn"
+			],
+			[
+				"message",
+				"gamemodes\\sss\\utils\\message.pwn"
+			],
+			[
+				"bugrepo",
+				"gamemodes\\sss\\core\\admin\\bug-report.pwn"
+			],
+			[
+				"constru",
+				"gamemodes\\sss\\core\\world\\craft-construct.pwn"
+			],
+			[
+				"workbe",
+				"gamemodes\\sss\\core\\world\\workbench.pwn"
+			],
+			[
+				"weaponmisc",
+				"gamemodes\\sss\\core\\weapon\\misc.pwn"
+			],
+			[
+				"serverlanguage",
+				"gamemodes\\sss\\core\\server\\language.pwn"
+			],
+			[
+				"vehtype",
+				"gamemodes\\sss\\core\\vehicle\\vehicle-type.pwn"
+			],
+			[
+				"animset",
+				"gamemodes\\sss\\core\\weapon\\animset.pwn"
+			],
+			[
+				"hook",
+				"gamemodes\\sss\\core\\server\\hooks.pwn"
+			],
+			[
+				"craftcon",
+				"gamemodes\\sss\\core\\world\\craft-construct.pwn"
+			],
+			[
+				"workben",
+				"gamemodes\\sss\\core\\world\\workbench.pwn"
+			],
+			[
+				"campfire",
+				"gamemodes\\sss\\core\\world\\campfire.pwn"
+			],
+			[
+				"streamer",
+				"include\\streamer.inc"
+			],
+			[
+				"chain",
+				"gamemodes\\sss\\core\\item\\chainsaw.pwn"
+			],
+			[
+				"weapon/",
+				"gamemodes\\sss\\core\\weapon\\core.pwn"
+			],
+			[
+				"weapon",
+				"gamemodes\\sss\\core\\weapon\\ammunition.pwn"
+			],
+			[
+				"crowbar",
+				"gamemodes\\sss\\core\\item\\crowbar.pwn"
+			],
+			[
+				"hackdet",
+				"gamemodes\\sss\\core\\admin\\hack-detect.pwn"
+			],
+			[
+				"settpwn",
+				"gamemodes\\sss\\core\\server\\settings.pwn"
+			],
+			[
+				"zipline.inc",
+				"Releases\\Zipline\\Zipline.inc"
+			],
+			[
+				"zipli",
+				"include\\Zipline.inc"
+			],
+			[
+				"sett",
+				"gamemodes\\sss\\core\\server\\settings.pwn"
+			],
+			[
+				"simpleini",
+				"include\\SimpleINI.inc"
+			],
+			[
+				"knockout",
+				"gamemodes\\sss\\core\\char\\knockout.pwn"
+			],
+			[
+				"lock.",
+				"gamemodes\\sss\\core\\vehicle\\lock.pwn"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "pawp",
+		"selected_items":
+		[
+			[
+				"pawp",
+				"E:\\Documents\\Projects\\Pawpy\\Pawpy.sublime-project"
+			],
+			[
+				"twit",
+				"E:\\Documents\\Projects\\twitch-tool\\twitch-tool.sublime-project"
+			],
+			[
+				"social",
+				"E:\\Documents\\Projects\\cs-stuff\\SocialMusicServer\\SocialMusicServer.sublime-project"
+			],
+			[
+				"socialm",
+				"E:\\Documents\\Projects\\cs-stuff\\SocialMusicServer\\SocialMusicServer.sublime-project"
+			],
+			[
+				"ssac",
+				"E:\\Documents\\Projects\\ssac\\ssac.sublime-project"
+			],
+			[
+				"",
+				"E:\\Games\\Projects\\SA-MP\\codsamp\\codsamp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".PHONY:"
+			],
+			[
+				"INTE",
+				"INTEGER"
+			],
+			[
+				"CNT_MAX",
+				"CNT_MAX"
+			],
+			[
+				"player",
+				"PLAYER_INDEX"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
