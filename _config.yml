@@ -19,3 +19,6 @@ github_username:  Southclaw
 
 # Build settings
 markdown: kramdown
+
+# Post stuff
+excerpt_separator: <!--more-->
