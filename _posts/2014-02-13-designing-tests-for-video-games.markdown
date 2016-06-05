@@ -5,6 +5,7 @@ date:       2014-02-13 17:09:41
 categories: guides
 ---
 In this article, I'll be discussing video game testing. This includes test types, issue labels, defect triggers, operating regions and testing phases. 
+<!--more-->
 
 # Types of issue
 

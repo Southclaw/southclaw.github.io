@@ -6,6 +6,7 @@ categories: samp
 ---
 Data visualisation has been an interest of mine ever since I saw a DDoS attack map ([similar to this one](http://map.norsecorp.com/)) years ago. I've always wanted to play around with the data I have from my [Scavenge and Survive](https://github.com/southclaw/scavengesurvive) project but never really delved into it until recently. Back when my language knowledge was purely Pawn, C, C++, c# and some web stuff (in that order!) I didn't really know how to output image files let alone paint on them with procedures!
 <!--more-->
+
 I once tried this a long time ago when node.js was still in its infancy, there was a handy heatmap.js library on npm which I played around with and got a very basic heatmap of where players had died on my Scavenge and Survive game server. The preparation for the data was awkward as I had no concept of grepping source files with regex.
 
 Nowadays with Python under my belt I decided to bring this idea back to life and write a module to generate a set of maps to display static data from the Scavenge and Survive source code using [this heatmap library](http://jjguy.com/heatmap/) which I updated to Python 3 on my GitHub (oh how I love open source!). This data includes loot spawns (loot spawns are areas of the map that items spawn for players to scavenge and collect to help them survive in the game, different types items are weighted according to their value in the game).

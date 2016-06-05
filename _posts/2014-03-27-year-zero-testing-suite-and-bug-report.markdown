@@ -4,9 +4,8 @@ title:      "Year Zero - Testing Suite and Bug Report"
 date:       2014-03-27 17:34:47
 categories: projects
 ---
-# Testing Suites
-
 A detailed planned approach to structuring a test prior to performing the test. Confining the test to a specific area of the software resulting in a more organised procedure. These testing suites below were performed on Legendary Games' Year Zero. 
+<!--more-->
 
 ## Pre-Game Test
 

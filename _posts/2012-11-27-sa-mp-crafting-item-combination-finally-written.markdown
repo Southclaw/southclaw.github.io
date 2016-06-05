@@ -4,7 +4,8 @@ title:      "SA&#58;MP Crafting / Item Combination finally written!"
 date:       2012-11-27 15:17:56
 categories: samp
 ---
-After much procrastinating over the past few weeks I finally wrote the code for the crafting system, it was a lot simpler than I expected! ![](http://cdn2.planetminecraft.com/files/resource_media/screenshot/1232/Crafting-Table_3191918.jpg) When I first conceived the idea I was thinking about good old Minecraft a lot and it's simple crafting mechanic, and mostly about the bits of Java code I had seen while poking around a decompiled version! If you've not played it, the crafting is pretty simple, probably derived from older systems from older games. On a workbench, there is a 3 x 3 grid, you put items in the grid either in specific sequences or just somewhere on the grid to craft things, the game works around recipes so only some items can be crafted into other items. On the coding side of things, this is pretty simple: 
+After much procrastinating over the past few weeks I finally wrote the code for the crafting system, it was a lot simpler than I expected! When I first conceived the idea I was thinking about good old Minecraft a lot and it's simple crafting mechanic, and mostly about the bits of Java code I had seen while poking around a decompiled version! If you've not played it, the crafting is pretty simple, probably derived from older systems from older games. On a workbench, there is a 3 x 3 grid, you put items in the grid either in specific sequences or just somewhere on the grid to craft things, the game works around recipes so only some items can be crafted into other items. On the coding side of things, this is pretty simple: 
+<!--more-->
     
     
     addRecipe(

@@ -5,6 +5,7 @@ date:       2013-10-05 22:27:15
 categories: reviews
 ---
 I finally played the Beta today with a couple of friends (I've had it since it came out but never got time to play) and it's a bit different from what I expected! I enjoyed my time playing but still have a few issues with the game. I'll try keep this short and sweet though, as I need to break the habit of posting walls of text! ![](http://thecontrolleronline.com/wp/wp-content/uploads/2013/03/Battlefield-4-logo.jpg) Now I will be talking about gameplay mechanics not performance issues. Performance has been a very noticeable issue in my experience but it's expected in a Beta test. I refrained from writing a HUGE wall of text to make it easier to read! Just read the bits you want to know about, if you haven't played it and want to know something just drop a comment asking me and I'll answer as best I can! 
+<!--more-->
 
 # **The Good**
 

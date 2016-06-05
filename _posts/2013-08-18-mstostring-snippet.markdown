@@ -5,6 +5,7 @@ date:       2013-08-18 12:02:55
 categories: c
 ---
 Here's a quick snippet for generating a string with hours, minutes, seconds and milliseconds in it all from a single milliseconds value. It uses simple format specifiers: 
+<!--more-->
 
   *     "%h" - hours
 

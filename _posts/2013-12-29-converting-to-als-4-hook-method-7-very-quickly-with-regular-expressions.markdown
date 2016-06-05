@@ -5,6 +5,7 @@ date:       2013-12-29 20:00:13
 categories: programming
 ---
 A while ago, I stumbled upon the [ALS 7 topic](http://forum.sa-mp.com/showthread.php?t=441293) and I set out to convert SIF and SS to use this method but SS has 195 files alone, a search found 230 hooks _woah!_ I ain’t doing all those by hand! **Update: Fixed replacements for function calls to have compile-time #if checks and else cases.** Luckily, [Sublime Text 2](http://www.sublimetext.com/2) supports [Regular Expression](http://www.regular-expressions.info/) search and replace. So in this post, I will guide you through the regex queries needed to convert from the old ALS method to the new (faster) version. 
+<!--more-->
 
 # Regular Expressions
 

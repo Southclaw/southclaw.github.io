@@ -5,6 +5,7 @@ date:       2013-09-12 12:09:52
 categories: samp
 ---
 As many of you SS players probably know, I reached a major milestone recently and thus slowed down on development (which is odd as I had the longest [GitHub commit streak](https://github.com/Southclaw) or 10 days this week...), I've been exploring some other things, such as [drawing](http://southclawjk.deviantart.com/art/Wolf-Redraw-Colour-396030354), and [more drawing](http://i.imgur.com/RlObt8qh.jpg)! The time has come to start thinking about what future plans I have for SS now that I've had a bit of a rest. I've also started back at college so I don't have all the time in the world but still a good deal. ![](http://i.imgur.com/lKF9QEe.jpg)
+<!--more-->
 
 # **Overview**
 

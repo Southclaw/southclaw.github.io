@@ -5,6 +5,7 @@ date:       2012-09-19 20:32:55
 categories: personal
 ---
 I'm Barnaby also known as Southclaw by the internetters out there, I am studying _Games Development Level 3_ at _Confetti Institute of Creative Technologies_ in Nottingham for two years. 
+<!--more-->
 
 [![](http://www.snc.ac.uk/college/images/confetti_ict.jpg)](http://www.snc.ac.uk/college/images/confetti_ict.jpg)
 

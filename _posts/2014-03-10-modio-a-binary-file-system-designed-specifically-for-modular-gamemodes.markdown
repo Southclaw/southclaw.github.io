@@ -4,9 +4,8 @@ title:      "modio - A binary file system designed specifically for modular game
 date:       2014-03-10 14:18:09
 categories: binary
 ---
-# What is modio?
-
 "modio" (modular IO) is a file reader/writer library for SA:MP that takes advantage of fblockread and fblockwrite. I won't go into the advantages of binary files too much here. They are a nice alternative to SQL which can sometimes be overkill that offer a nice speed and flexibility advantage over plaintext parsers such as INI or JSON. This library is designed for modular gamemodes. Gamemodes that have a lot of different parts that must save to a single file. I wrote it with y_hooks/ALS in mind; for example storing some data to a file simply by calling the modio write function in an OnPlayerDisconnect hook. 
+<!--more-->
 
 # Example of Use
 

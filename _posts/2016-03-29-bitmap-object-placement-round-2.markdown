@@ -6,6 +6,7 @@ categories: samp
 ---
 I last wrote about this proof-of-concept back in 2014 but I'm back again, this time with more knowledge! Over the past two years or so, I've been loving the Python language and the ability to quickly create prototypes for ideas then progress them to fully fledged, structured, documented projects. The amount of libraries available for Python is amazing and really makes developing easy (most of the time!).
 <!--more-->
+
 For those of you who don't know what the original project was, it was an automatic object placement script for the San Andreas Multiplayer project. I wanted to be able to place rocks, bushes and trees all over the six square kilometres of the [San Andreas](http://ian-albert.com/games/grand_theft_auto_san_andreas_maps/) map. It's one of those automation projects that results in taking longer than actually performing the task manually but is much more interesting and fun!
 
 I recently decided to revive the [Bitmap Object Placement](/samp/2014/06/01/bitmap-object-placement.html) project and rewrite it as a set of Python scripts. You can find the end result of this project and various other fun scripts in the `./misc` directory of the [Scavenge and Survive](https://github.com/southclaw/scavengesurvive) repository.

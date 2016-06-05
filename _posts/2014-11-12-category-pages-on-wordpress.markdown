@@ -6,6 +6,7 @@ categories: category-page
 ---
 Here's a quick post outlining some small changes I've made to the PHP code on my university WordPress 4.0 site which students use to document course work. I originally wanted a very organised site where I could store posts of different types (course strands in most contexts) in separate pages and still leave the main page as a full feed of all my content. Pages, unfortunately didn't offer this behaviour by default as they only displayed a pre-set (static) piece of content.  I decided to delve into a language I've rarely touched on on a platform I've never even read the API documentation for! After a couple of hours of work and Wordpress codex browsing, I have exactly what I want. 
 <!--more-->
+
 {% highlight php %}
 <?php
 /**

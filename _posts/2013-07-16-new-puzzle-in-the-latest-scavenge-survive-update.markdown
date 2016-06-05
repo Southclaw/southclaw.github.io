@@ -5,6 +5,7 @@ date:       2013-07-16 16:45:37
 categories: gaming
 ---
 Activities like puzzles are a rarity in SS, despite being listed as one of the top attractions/features of the game. This is not because I'm lazy! I just seem to spend more time fixing bugs and working on the internal framework of SS rather than actually _creating content _such as puzzles and new areas to explore. But I am slowly but surely adding in interactive activities in the environment for players to work together in order to complete! ![](http://teambuilding.firebirdevents.co.uk/images/treasure-hunt.jpg) This new puzzle isn't really a puzzle, it's more of a _treasure hunt_ for the required items to get into an area. Yes, an SS activity that involves _searching for things_ as if there isn't enough of that already, I know! But it's something in between now and whenever I figure out what the next actual puzzle will be. 
+<!--more-->
 
 ## 
 

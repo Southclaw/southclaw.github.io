@@ -5,6 +5,7 @@ date:       2013-11-16 23:23:07
 categories: samp
 ---
 I discovered this a while ago, and recently changed every colour embed code (and recently, keycodes) in Scavenge and Survive to not use '#' in embed codes. I will explain how I performed that task on ~30 files and ~180 entries in a few seconds at the end of this post. 
+<!--more-->
 
 # Compile Time String Concatenation
 

@@ -5,6 +5,7 @@ date:       2014-06-01 00:09:04
 categories: samp
 ---
 A while ago I was asking around for a bitmap loader. I eventually stumbled across this plugin: http://forum.sa-mp.com/showthread.php?t=254710 which was exactly what I wanted! I decided to speed up object placement a bit for the Scavenge and Survive project as the map is still pretty bare for the intended desolate representation of what once was San Andreas. I'm pretty lazy and spending hours placing trees and bushes is not in my best interests so I wrote the bitmap object placement tool to solve that problem! 
+<!--more-->
 
 # How does it work?
 

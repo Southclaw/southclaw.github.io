@@ -4,7 +4,10 @@ title:      "Zipline in SA&#58;MP Script Overview (Part 1&#58; Line Segments)"
 date:       2012-10-04 00:24:09
 categories: samp
 ---
-I recently uploaded a video of my latest creation, this one is a Zipline mod for SA:MP. Something I've wanted to do for a long while, I tried once before but couldn't get some maths right. This time, I gave it a full day of coding and finally got there, and surprisingly fast with minimal bugs (Which is a rarity for me!) Anyway, without going further, check out the video of the end result here: [youtube=http://www.youtube.com/watch?v=bdFGF7CtmpA]  So, how does it work? I'll start with the basics, which was the line part of the zipline. I actually developed this as a separate library the day before I worked on the actual zipline-y part. Basically I created a function that created a line of objects from one point to another (that object can be anything, but for the zipline I used rope), the function takes various parameters to do this: 
+I recently uploaded a video of my latest creation, this one is a Zipline mod for SA:MP. Something I've wanted to do for a long while, I tried once before but couldn't get some maths right. This time, I gave it a full day of coding and finally got there, and surprisingly fast with minimal bugs (Which is a rarity for me!)
+<!--more-->
+
+Anyway, without going further, check out the video of the end result here: [youtube=http://www.youtube.com/watch?v=bdFGF7CtmpA]  So, how does it work? I'll start with the basics, which was the line part of the zipline. I actually developed this as a separate library the day before I worked on the actual zipline-y part. Basically I created a function that created a line of objects from one point to another (that object can be anything, but for the zipline I used rope), the function takes various parameters to do this: 
     
     
     The 3 start coordinates</pre>

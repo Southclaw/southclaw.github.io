@@ -4,9 +4,8 @@ title:      "Improving Productivity with Sublime Text (Installation, Tips, Trick
 date:       2014-08-12 15:34:40
 categories: guides
 ---
-# What is Sublime Text?
-
 In short, Sublime Text is an extremely feature-rich and customisable plain-text editor. It's customisability is powered by python scripting and there are a huge amount of extensions available. Sublime Text gives you an amazing toolset tailored to speeding up your writing workflow whether that is code, articles or just quick notes. (Fun fact: I'm writing this entire article in Sublime using an Evernote + Markdown extension) 
+<!--more-->
 
 # A Quick Tour
 

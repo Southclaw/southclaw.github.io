@@ -5,6 +5,7 @@ date:       2013-09-16 18:10:31
 categories: samp
 ---
 Thanks to the awesome [Empire Bay Gaming](http://forums.empire-bay.com/), the Scavenge and Survive server is moving to a brand new host machine with nicer specs. That means better connection, more responsive interaction, less ping kicks/random disconnects for the most part! 
+<!--more-->
 
 # **IP: 94.23.19.43**
 
