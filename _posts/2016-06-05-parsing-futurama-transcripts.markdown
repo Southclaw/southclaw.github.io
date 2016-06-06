@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Parsing Futurama Transcripts"
-date:       2016-06-06 09:25:12
+date:       2016-06-05 09:25:12
 categories: projects
 ---
 A friend and I are planning to start a Futurama YouTube channel since we love the show so much and both watch it almost religiously. One thing I wanted to bring to the table aside from the video editing was some tools to help us get some interesting facts about the character dialogue. I had originally thought of a very awkward way to do this involving running some kind of voice recognition engine over the episodes and getting the transcripts that way but I found that the hard work has already been done by the amazing Futurama fanbase over at [The Infosphere](https://theinfosphere.org/Episode_Transcript_Listing). Now I can concentrate on the fun part: textual analysis!
