@@ -2,7 +2,7 @@
 layout:     post
 title:      "Switched To Using SQLitei for SS Database"
 date:       2013-08-05 10:03:46
-categories: reviews
+categories: samp
 ---
 I've never liked SQL, at least not in the Pawn language. I find it so awkward to write, you have to declare some huge string, then format it with a bunch of words and data that usually goes off the edge of the screen unless you split it across lines. All the functions are in_lower_case_with_tons_of_underscores which looks so ugly to me!
 <!--more-->

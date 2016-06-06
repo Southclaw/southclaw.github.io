@@ -2,7 +2,7 @@
 layout:     post
 title:      "Dropping the Scavenge and Survive Project (for now...)"
 date:       2013-12-27 14:36:03
-categories: personal
+categories: samp
 ---
 In case you didn't notice the announcement on the Empire Bay forums; on Dec 24th I shut down the server and left the project. Don’t worry, it’s back online under new management so you can still play however there won’t be any updates for a while.
 <!--more-->

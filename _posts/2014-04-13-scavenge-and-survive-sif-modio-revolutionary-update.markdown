@@ -2,7 +2,7 @@
 layout:     post
 title:      "Scavenge and Survive + SIF + modio = Revolutionary Update"
 date:       2014-04-13 12:58:08
-categories: binary
+categories: samp
 ---
 A while ago [I posted about "Why Scavenge and Survive Development Is So Limited Right Now"](http://southclawjk.wordpress.com/2013/10/02/why-scavenge-and-survive-development-is-so-limited-right-now/) and now all the problems outlined in that post have since been eradicated thanks to three significant new libraries I've written. 
 <!--more-->

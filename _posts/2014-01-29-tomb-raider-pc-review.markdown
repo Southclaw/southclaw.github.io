@@ -2,10 +2,12 @@
 layout:     post
 title:      "Tomb Raider PC Review"
 date:       2014-01-29 10:23:12
-categories: lara-croft
+categories: reviews
 ---
-Survival has been the buzzword of the games market these past few years; since the popularity of Minecraft and the DayZ mod, it has become a common selling point for many titles (even those that differ greatly from the actual survival genre) Square Enix's reboot of the Tomb Raider franchise is no exception. However, despite this, the game itself is very enjoyable with some impressive graphics. ![Alt TombRaider](http://i.imgur.com/85zOgFVl.jpg) Lara's adventure is far from survival gameplay wise but that's what the story is based around. The game itself is honestly pretty fun; gunplay is rewarding though a tad easy on the highest difficulty. Much of your island activities involve holding a gun or a scavenged bow from early in the game. 
+Survival has been the buzzword of the games market these past few years; since the popularity of Minecraft and the DayZ mod, it has become a common selling point for many titles (even those that differ greatly from the actual survival genre) Square Enix's reboot of the Tomb Raider franchise is no exception. However, despite this, the game itself is very enjoyable with some impressive graphics.
 <!--more-->
+
+![Alt TombRaider](http://i.imgur.com/85zOgFVl.jpg) Lara's adventure is far from survival gameplay wise but that's what the story is based around. The game itself is honestly pretty fun; gunplay is rewarding though a tad easy on the highest difficulty. Much of your island activities involve holding a gun or a scavenged bow from early in the game. 
 
 # Mechanics
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Converting from Wordpress to Jekyll"
 date:       2016-06-03 08:56:00
-categories: projects
+categories: web
 ---
 I've been meaning to start my blog up and write about code for a long time (over two years!) and part of that was meant to be writing my own blog site using [Wagtail](https://wagtail.io) (A Python Django project from Torchbox). I got pretty far with that project, a blog page, portfolio and various other things were completed but I never got around to porting my Wordpress content over and eventually stopped paying for the server.
 <!--more-->

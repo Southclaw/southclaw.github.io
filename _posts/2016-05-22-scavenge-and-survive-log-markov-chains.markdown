@@ -2,7 +2,7 @@
 layout:     post
 title:      "Scavenge and Survive Log Markov Chains"
 date:       2016-05-22 20:12:25
-categories: projects
+categories: python
 ---
 This was a fun project that I've wanted to attempt for a long time. I've been a Twitter user for a number of years and like every social network, Twitter has some "just twitter" things that are pretty unique to the format and the site. One of these things is the age-old "horse_ebooks" which started the trend of using [Markov Chains](https://en.wikipedia.org/wiki/Markov_chain) to create novelty twitter accounts that automatically generate and post (sometimes) hilarious sentences.
 <!--more-->

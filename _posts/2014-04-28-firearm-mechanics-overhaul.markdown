@@ -2,7 +2,7 @@
 layout:     post
 title:      "Firearm Mechanics Overhaul"
 date:       2014-04-28 09:23:10
-categories: damage-mechanics
+categories: samp
 ---
 A huge update to weapons is rolling out soon which will partly change the way weapons behave as items but more importantly how they will behave in combat. Essentially, I'm outing the traditional health bar mechanics and introducing two new character mechanics: bleed rates and cripples. 
 <!--more-->

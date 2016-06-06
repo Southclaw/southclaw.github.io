@@ -2,7 +2,7 @@
 layout:     post
 title:      "Facebook Feedback"
 date:       2013-09-27 20:37:18
-categories: thoughts
+categories: personal
 ---
 Today, I was offered the chance to give feedback to Facebook through a survey option that appeared on the page, here's a summary of what I wrote and how I feel about the product in it's current state: I feel facebook is improving, but it still feels outdated interface wise compared to an interface like Google, YouTube or even GitHub. It feels slow and sluggish at times (not all the time) aside from this, I have a handful of good and bad thoughts on the site...
 <!--more-->
