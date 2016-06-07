@@ -22,3 +22,6 @@ markdown: kramdown
 
 # Post stuff
 excerpt_separator: <!--more-->
+
+# Google services
+google_analytics: UA-78828365-1
