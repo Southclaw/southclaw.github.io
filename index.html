@@ -9,7 +9,9 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">
+          {{ post.date | date: "%b %-d, %Y" }} - <span class="disqus-comment-count" data-disqus-identifier="{{post.url}}">0 Comments</span>
+        </span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -22,3 +24,4 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+<script id="dsq-count-scr" src="//southclaw.disqus.com/count.js" async></script>
