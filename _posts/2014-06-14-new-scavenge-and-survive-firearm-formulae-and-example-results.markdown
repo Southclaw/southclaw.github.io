@@ -4,7 +4,7 @@ title:      "New Scavenge and Survive Firearm Formulae and Example Results!"
 date:       2014-06-14 01:37:39
 categories: samp
 ---
-Fresh off the source code, I've just finished writing prototype formulas for calculating bleeding rates based on 3 prime weapon factors: muzzle velocity, bullet calibre bleed rate and distance to target. ![](http://puu.sh/9sqtY/e60edd73e0.png)
+Fresh off the source code, I've just finished writing prototype formulas for calculating bleeding rates based on 3 prime weapon factors: muzzle velocity, bullet calibre bleed rate and distance to target. ![https://dl.dropboxusercontent.com/u/45512231/ShareX/ss%20%282014-06-14%20at%2001.05.51%29.png](https://dl.dropboxusercontent.com/u/45512231/ShareX/ss%20%282014-06-14%20at%2001.05.51%29.png)
 <!--more-->
 
 # What are those? Numbers?
